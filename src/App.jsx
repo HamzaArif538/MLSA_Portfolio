@@ -27,11 +27,11 @@ const siteProps = {
   name: "Hamza Arif",
   title: "React Developer",
   email: "Hamza.Arif@studentambassadors.com",
-  gitHub: "https://github.com/HamzaArif538",
+  gitHub: "HamzaArif538",
   instagram: "",
-  linkedIn: "https://www.linkedin.com/in/hamza-arif1/",
-  medium: "https://medium.com/@sardarhamza538",
-  twitter: "https://twitter.com/__sardarhamza",
+  linkedIn: "hamza-arif1/",
+  medium: "@sardarhamza538",
+  twitter: "__sardarhamza",
   youTube: "",
 };
 
